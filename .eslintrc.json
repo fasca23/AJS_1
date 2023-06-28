@@ -13,7 +13,9 @@
                 "error",
                 "LabeledStatement",
                 "WithStatement"
-            ]
+            ],
+            "no-unused-vars": "warn",
+            "no-multiple-empty-lines": "warn"
     }
 }
 

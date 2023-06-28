@@ -22,12 +22,13 @@
   },
   "homepage": "https://github.com/fasca23/AJS_1#readme",
   "devDependencies": {
-    "@babel/cli": "^7.22.5",
+    "@babel/cli": "^7.6.4",
     "@babel/core": "^7.22.5",
     "@babel/preset-env": "^7.22.5",
     "eslint": "^8.43.0",
-    "eslint-config-airbnb-base": "^15.0.0",
-    "eslint-plugin-import": "^2.27.5"
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.26.0",
+    "live-server": "^1.1.0"
   },
   "dependencies": {
     "core-js": "^3.31.0"
